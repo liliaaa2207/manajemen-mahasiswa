@@ -52,3 +52,5 @@ Fitur-fitur yang diimplementasikan:
 | + inputData()        |
 | + tampilkanMenu()    |
 +----------------------+
+
+Link video YouTube = https://youtu.be/V0z24XcR0HE
